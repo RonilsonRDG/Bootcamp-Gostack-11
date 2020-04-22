@@ -1,0 +1,6 @@
+Typescript
+Eslint
+Prettier
+Styled Components
+Polished
+Axios
